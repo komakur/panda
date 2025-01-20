@@ -9,7 +9,7 @@
             "request": "launch",
             "type": "dart",
             "args": [
-                "--web-port=8080",
+                "--web-port=8000",
                 "--dart-define-from-file=.env",
             ],
         },
@@ -19,7 +19,7 @@
             "type": "dart",
             "flutterMode": "profile",
             "args": [
-                "--web-port=8080",
+                "--web-port=8000",
                 "--dart-define-from-file=.env",
             ],
         },

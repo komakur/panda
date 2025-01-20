@@ -34,6 +34,8 @@ migrate_working_dir/
 .pub/
 /build/
 
+messaging-backend/node_modules/
+
 # Symbolication related
 app.*.symbols
 
