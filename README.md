@@ -21,5 +21,5 @@ npm -v
 
 Limitations:
 1. Really simple authentication, due to the lack of backend knowledge.
-2. Would be great to have different chats of users. I could find proper websocket backend API, so created in on my self. However it's super easy and every user gets message.
+2. Would be great to have different chats of users. I couldn't find proper websocket backend API, so created in on my self. However it's super easy and every user gets message.
 
